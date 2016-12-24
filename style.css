@@ -1,0 +1,115 @@
+html, body {
+
+	margin: 0px;
+
+	padding: 0px;
+
+	font-family: 'Kumar One', cursive;
+
+}
+
+
+
+
+
+
+
+
+
+#top {
+
+	position: fixed;
+
+	width: 100%;
+
+	top: 20px;
+
+	text-align: center;
+
+}
+
+
+
+#logo {
+
+	position: relative;
+	
+	width: 170px;
+
+	top: 22px;
+	
+	left: 10px;
+
+}
+
+
+
+#play {
+
+	font-size: 100px;
+	cursor: pointer;
+	
+	transform: translateY(-50%);
+
+	-webkit-transition: all 0.25s;
+
+	transition: all 0.25s;
+
+}
+
+
+
+#play:hover {
+
+	font-size: 150px;
+
+}
+
+
+
+#by {
+
+	font-size: 30px;
+
+}
+
+a {
+	color: #f2d300;
+	text-decoration: none;
+}
+
+.ionorange {
+	color: #ff8c1a;
+}
+
+.logo {
+	cursor: pointer;
+	-webkit-transition: all 0.25s;
+	transition: all 0.25s;
+}
+
+.logo:hover {
+	text-shadow: 0px 0px 12px #ff8c1a;
+}
+
+.baloo {
+	font-family: "Baloo", cursive;
+}
+
+#logo-dd {
+	font-family: 'Molle', cursive;
+}
+
+#logo-g {
+	color: #ffffff;
+	font-family: 'Arvo', cursive;
+}
+
+#logo-ddg {
+	-webkit-transition: all 0.25s;
+	transition: all 0.25s;
+}
+
+#logo-ddg:hover {
+	text-shadow: 0px 0px 12px #f2d300;
+}
