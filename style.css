@@ -1,0 +1,206 @@
+html, body {
+
+	margin: 0px;
+
+	padding: 0px;
+
+	font-family: 'Space Mono', cursive;
+
+	cursor: cirser;
+	-webkit-touch-callout: none; /* iOS Safari */
+	-webkit-user-select: none; /* Chrome/Safari/Opera */
+	-khtml-user-select: none; /* Konqueror */
+	-moz-user-select: none; /* Firefox */
+	-ms-user-select: none; /* Internet Explorer/Edge */
+
+}
+
+
+
+.texture {
+
+	display: none;
+
+}
+
+
+
+#background {
+
+	position: fixed;
+
+	width: 100%;
+
+	height: 100%;
+
+	background-color: #ffffcc;
+
+	opacity: 0.5;
+
+}
+
+
+
+#top {
+
+	position: fixed;
+
+	width: 100%;
+
+	top: 20px;
+
+	text-align: center;
+
+}
+
+
+
+#middle {
+
+	position: absolute;
+
+	width: 100%;
+
+	top: 30%;
+
+	text-align: center;
+
+}
+
+#games {
+	
+	position: absolute;
+
+	width: 100%;
+
+	top: 70%;
+
+	font-size: 30px;
+	
+	text-align: center;
+
+}
+
+#bottom {
+
+	position: fixed;
+
+	width: 100%;
+
+	bottom: 60%;
+
+	text-align: center;
+
+}
+
+#motto {	
+	position: fixed;
+
+	width: 100%;
+
+	top: 52px;
+
+	text-align: center;
+
+}
+
+
+#title {
+
+	font-size: 150px;
+
+}
+
+#thanksTo {
+
+	position: fixed;
+
+	width: 100%;
+
+	bottom: 5px;
+
+	text-align: center;
+
+}
+#logo {
+
+	position: relative;
+	
+	width: 170px;
+
+	top: 22px;
+	
+	left: 10px;
+
+}
+
+
+
+#boat_wars_link {
+	font-size: 20;
+	text-align: center;
+	top: 70%;
+	color: #000000;
+	
+	cursor: pointer;
+	
+	transform: translateY(-50%);
+
+	-webkit-transition: all 0.25s;
+
+	transition: all 0.25s;
+}
+
+#boat_wars_link:hover {
+
+	font-size: 27px;
+	text-shadow: 0px 0px 12px #ff8c1a;
+}
+
+#name {
+
+	font-size: 30px;
+
+}
+
+a {
+	color: #000000;
+	text-decoration: none;
+}
+
+.ionorange {
+	color: #ff8c1a;
+}
+
+.logo {
+	cursor: pointer;
+	-webkit-transition: all 0.25s;
+	transition: all 0.25s;
+}
+
+.logo:hover {
+	text-shadow: 0px 0px 12px #ff8c1a;
+}
+
+.baloo {
+	font-family: "Baloo", cursive;
+}
+
+#logo-dd {
+	color: #f2d300;
+	font-family: 'Molle', cursive;
+}
+
+#logo-g {
+	color: #000000;
+	font-family: 'Arvo', cursive;
+}
+
+#logo-ddg {
+	-webkit-transition: all 0.25s;
+	transition: all 0.25s;
+}
+
+#logo-ddg:hover {
+	text-shadow: 0px 0px 12px #f2d300;
+}
