@@ -15,16 +15,6 @@ html, body {
 
 }
 
-
-
-.texture {
-
-	display: none;
-
-}
-
-
-
 #background {
 
 	position: fixed;
@@ -34,8 +24,6 @@ html, body {
 	height: 100%;
 
 	background-color: #ffffcc;
-
-	opacity: 0.5;
 
 }
 
