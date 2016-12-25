@@ -61,7 +61,7 @@ html, body {
 
 	width: 100%;
 
-	top: 30%;
+	top: 70%;
 
 	text-align: center;
 
@@ -73,7 +73,7 @@ html, body {
 
 	width: 100%;
 
-	top: 70%;
+	top: 60%;
 
 	font-size: 30px;
 	
@@ -87,7 +87,7 @@ html, body {
 
 	width: 100%;
 
-	bottom: 60%;
+	bottom: 80%;
 
 	text-align: center;
 
@@ -109,7 +109,7 @@ html, body {
 
 	width: 100%;
 
-	top: 60px;
+	top: 100px;
 
 	text-align: center;
 
@@ -148,7 +148,7 @@ html, body {
 #boat_wars_link {
 	font-size: 20;
 	text-align: center;
-	top: 70%;
+	top: 30%;
 	color: #000000;
 	
 	cursor: pointer;
