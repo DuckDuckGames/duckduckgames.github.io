@@ -104,7 +104,16 @@ html, body {
 
 }
 
+#twit {	
+	position: fixed;
 
+	width: 100%;
+
+	top: 60px;
+
+	text-align: center;
+
+}
 #title {
 
 	font-size: 150px;
