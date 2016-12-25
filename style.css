@@ -73,7 +73,7 @@ html, body {
 
 	width: 100%;
 
-	top: 50%;
+	top: 40%;
 
 	font-size: 30px;
 	
@@ -86,8 +86,6 @@ html, body {
 	position: fixed;
 
 	width: 100%;
-
-	bottom: 20%;
 
 	text-align: center;
 
@@ -150,7 +148,7 @@ html, body {
 	text-align: center;
 	top: 70%;
 	color: #000000;
-	
+	bottom: 40%;
 	cursor: pointer;
 	
 	transform: translateY(-50%);
