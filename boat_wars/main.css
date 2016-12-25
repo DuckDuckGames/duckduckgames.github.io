@@ -1,65 +1,179 @@
-html, body {
-	margin: 0px;
-	padding: 0px;
-	font-family: 'Kumar One', cursive;
-	cursor: crosshair;	-webkit-touch-callout: none; /* iOS Safari */	-webkit-user-select: none; /* Chrome/Safari/Opera */	-khtml-user-select: none; /* Konqueror */	-moz-user-select: none; /* Firefox */	-ms-user-select: none; /* Internet Explorer/Edge */
-}
-
-.texture {
-	display: none;
-}
-
-#background {
-	position: fixed;
-	width: 100%;
-	height: 100%;
-	background-color: #ffffcc;
-	opacity: 0.5;
-}
-
-#top {
-	position: fixed;
-	width: 100%;
-	top: 20px;
-	text-align: center;
-}
-
-#middle {
-	position: absolute;
-	width: 100%;
-	top: 50%;
-	text-align: center;
-}
-
-#bottom {
-	position: fixed;
-	width: 100%;
-	bottom: 5px;
-	text-align: center;
-}
-
-#title {
-	font-size: 150px;
-}
-
-#logo {
-	position: relative;	
-	width: 170px;
-	top: 22px;		left: 10px;
-}
-
-#play {
-	font-size: 100px;	cursor: pointer;		transform: translateY(-50%);
-	-webkit-transition: all 0.25s;
-	transition: all 0.25s;
-}
-
-#play:hover {
-	font-size: 150px;
-}
-
-#by {
-	font-size: 30px;
+html, body {
+
+	margin: 0px;
+
+	padding: 0px;
+
+	font-family: 'Kumar One', cursive;
+
+	cursor: crosshair;
+	-webkit-touch-callout: none; /* iOS Safari */
+	-webkit-user-select: none; /* Chrome/Safari/Opera */
+	-khtml-user-select: none; /* Konqueror */
+	-moz-user-select: none; /* Firefox */
+	-ms-user-select: none; /* Internet Explorer/Edge */
+
 }
 
-a {	color: #f2d300;	text-decoration: none;}.ionorange {	color: #ff8c1a;}.logo {	cursor: pointer;	-webkit-transition: all 0.25s;	transition: all 0.25s;}.logo:hover {	text-shadow: 0px 0px 12px #ff8c1a;}.baloo {	font-family: "Baloo", cursive;}#logo-dd {	font-family: 'Molle', cursive;}#logo-g {	color: #ffffff;	font-family: 'Arvo', cursive;}#logo-ddg {	-webkit-transition: all 0.25s;	transition: all 0.25s;}#logo-ddg:hover {	text-shadow: 0px 0px 12px #f2d300;}
+
+
+.texture {
+
+	display: none;
+
+}
+
+
+
+#background {
+
+	position: fixed;
+
+	width: 100%;
+
+	height: 100%;
+
+	background-color: #ffffcc;
+
+	opacity: 0.5;
+
+}
+
+
+
+#top {
+
+	position: fixed;
+
+	width: 100%;
+
+	top: 20px;
+
+	text-align: center;
+
+}
+
+
+
+#middle {
+
+	position: absolute;
+
+	width: 100%;
+
+	top: 50%;
+
+	text-align: center;
+
+}
+
+
+
+#bottom {
+
+	position: fixed;
+
+	width: 100%;
+
+	bottom: 5px;
+
+	text-align: center;
+
+}
+
+
+
+#title {
+
+	font-size: 150px;
+
+}
+
+
+
+#logo {
+
+	position: relative;
+	
+	width: 170px;
+
+	top: 22px;
+	
+	left: 10px;
+
+}
+
+#howTo {
+
+	font-size: 100px;
+}
+
+#play {
+
+	font-size: 100px;
+	cursor: pointer;
+	
+	transform: translateY(-50%);
+
+	-webkit-transition: all 0.25s;
+
+	transition: all 0.25s;
+
+}
+
+
+
+#play:hover {
+
+	font-size: 150px;
+
+}
+
+
+
+#by {
+
+	font-size: 30px;
+
+}
+
+a {
+	color: #f2d300;
+	text-decoration: none;
+}
+
+.ionorange {
+	color: #ff8c1a;
+}
+
+.logo {
+	cursor: pointer;
+	-webkit-transition: all 0.25s;
+	transition: all 0.25s;
+}
+
+.logo:hover {
+	text-shadow: 0px 0px 12px #ff8c1a;
+}
+
+.baloo {
+	font-family: "Baloo", cursive;
+}
+
+#logo-dd {
+	font-family: 'Molle', cursive;
+}
+
+#logo-g {
+	color: #ffffff;
+	font-family: 'Arvo', cursive;
+}
+
+#logo-ddg {
+	-webkit-transition: all 0.25s;
+	transition: all 0.25s;
+}
+
+#logo-ddg:hover {
+	text-shadow: 0px 0px 12px #f2d300;
+}
