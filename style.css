@@ -5,7 +5,7 @@ html, body {
 	padding: 0px;
 
 	font-family: 'Space Mono', cursive;
-
+	background-color: #ffffcc;
 	cursor: cirser;
 	-webkit-touch-callout: none; /* iOS Safari */
 	-webkit-user-select: none; /* Chrome/Safari/Opera */
@@ -90,16 +90,6 @@ html, body {
 
 }
 
-#twit {	
-	position: fixed;
-
-	width: 100%;
-
-	top: 100px;
-
-	
-
-}
 #title {
 
 	font-size: 150px;
